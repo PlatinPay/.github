@@ -33,8 +33,11 @@ fees you will pay will be to Stripe (and, if applicable, your bank)
 
 ## Directory
 [platinpay-frontend](https://github.com/PlatinPay/platinpay-frontend) - @iUnstable0
+
 [platinpay-backend](https://github.com/PlatinPay/platinpay-backend)- @iUnstable0
+
 [platinpay-minecraft](https://github.com/PlatinPay/platinpay-minecraft) - @DatCodeMania
+
 [platinpay-discord](https://github.com/PlatinPay/platinpay-discord) - @DatCodeMania
 
 This project is licensed under the [GNU AGPL-3.0](LICENSE) License. See the `LICENSE` file for details.
