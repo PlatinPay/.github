@@ -40,6 +40,6 @@ fees you will pay will be to Stripe (and, if applicable, your bank)
 
 [platinpay-discord](https://github.com/PlatinPay/platinpay-discord) - @DatCodeMania
 
-This project is licensed under the [GNU AGPL-3.0](LICENSE) License. See the `LICENSE` file for details.
+This project is licensed under the [GNU AGPL-3.0](../LICENSE) License. See the `LICENSE` file for details.
 
 **DISCLAIMER: This project is currently not ready for production usage. It is a work-in-progress.**
