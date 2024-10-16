@@ -23,11 +23,12 @@ fees you will pay will be to Stripe (and, if applicable, your bank)
   do X and Y).
 
 - High customizability to fulfill your pleasurable needs
-- A beautiful, Nord-themed UI :3 (this is the default, but feel free to add alternatives and submit PRs)
+- Secure backend-service communications, using asymmetric Ed25519 signing, and other security options such as IP whitelisting.
+- A beautiful, Nord-themed UI (this is the default, but feel free to add alternatives and submit PRs)
 
 ## This project is far from done. Our Roadmap consists of:
 
-- Porting backend to Go (or maybe rust uwu)
+- Porting backend to Go (or Rust)
 - Affordable hosting solutions
 - Better system infastructure
 
