@@ -17,8 +17,7 @@ fees you will pay will be to Stripe (and, if applicable, your bank)
 ## PlatinPay's features:
 
 - Create different types of products, such as one-time purchases, subscriptions, consumable items, and more!
-- Integration with Discord for role rewards and communication  (for example, instead of setting up a
-  mail server to send emails to your players, you can just send them a DM on Discord!)
+- Integration with Discord for role rewards and communication  (for example, instead of setting up a mail server to send emails to your players, you can just send them a DM on Discord!)
 - Easily create automations with our powerful, easy-to-learn, and extensible framework (e.g., when a purchase is made,
   do X and Y).
 
