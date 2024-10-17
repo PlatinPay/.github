@@ -1,6 +1,6 @@
 # PlatinPay
 
-[Showcase video (we worked hard on it!)[../platinpay-showcase.mp4]
+[Showcase video (we worked hard on it!)](../platinpay-showcase.mp4)
 
 Both @iUnstable0 and I (@DatCodeMania) have ran Minecraft servers before. Monetization is what keeps a server alive, but
 it always seems to be so painful... When I ran my Minecraft server, I resorted to using Tebex. That was... not great.
