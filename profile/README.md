@@ -4,9 +4,11 @@
 [Showcase video (we worked hard on it!)](../platinpay-showcase.mp4)
 
 ## Try it yourself!
-[Frontend, with an example shop](https://platinpay.cc/store/main)
+- [Frontend, with an example shop](https://platinpay.cc/store/main)
 
-Minecraft server, connected to this example shop: platinpay.cc
+- Minecraft server, connected to this example shop: platinpay.cc
+
+- [Link to the Discord server containing the testing bot (may be necessary so the bot can DM you)](https://discord.gg/javgnZTmGs)
 
 ## Preface
 
