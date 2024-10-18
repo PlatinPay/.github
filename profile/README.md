@@ -2,6 +2,10 @@
 
 [Showcase video (we worked hard on it!)](../platinpay-showcase.mp4)
 
+Try it yourself!
+[Frontend, with an example shop](https://platinpay.cc/store/main)
+Minecraft server, connected to this example shop: platinpay.cc
+
 Both @iUnstable0 and I (@DatCodeMania) have ran Minecraft servers before. Monetization is what keeps a server alive, but
 it always seems to be so painful... When I ran my Minecraft server, I resorted to using Tebex. That was... not great.
 Lots of their services were unmaintained, and the 'taxing' model was completely unfair. Moreover, custom HTML cost a
