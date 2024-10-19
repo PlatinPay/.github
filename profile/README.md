@@ -2,6 +2,7 @@
 
 ## Showcase
 [Showcase video (we worked hard on it!)](../platinpay-showcase.mp4)
+https://github.com/user-attachments/assets/89858d85-fedd-4942-8d83-6085cea981c9
 
 ## Try it yourself!
 - [Frontend, with an example shop](https://platinpay.cc/store/main)
