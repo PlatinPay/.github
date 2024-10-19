@@ -1,5 +1,9 @@
 # PlatinPay
 
+<p align="center">
+  <img src="https://github.com/PlatinPay/.github/blob/main/horizontal-logo-text.png?raw=true" alt="PlatinPay's Logo"/>
+</p>
+
 ## Showcase
 [Showcase video (we worked hard on it!)](../platinpay-showcase.mp4)
 
