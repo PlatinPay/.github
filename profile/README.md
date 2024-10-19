@@ -1,5 +1,3 @@
-# PlatinPay
-
 <p align="center">
   <img src="https://github.com/PlatinPay/.github/blob/main/horizontal-logo-text-transparent.png?raw=true" alt="PlatinPay's Logo"/>
 </p>
