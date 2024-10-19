@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/PlatinPay/.github/blob/main/horizontal-logo-text-transparent.png?raw=true" alt="PlatinPay's Logo"/>
+  <img src="https://github.com/PlatinPay/.github/blob/main/horizontal-logo-text.png?raw=true" alt="PlatinPay's Logo"/>
 </p>
 
 ## Showcase
